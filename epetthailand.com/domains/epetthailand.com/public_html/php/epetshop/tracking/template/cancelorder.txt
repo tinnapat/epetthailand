@@ -1,0 +1,16 @@
+PetShop: (<!-- ORDER_NO -->) Your Order has been canceled.
+สวัสดีค่ะ
+ 
+ทางร้านได้รับการแจ้งยกเลิกรายการสั่งซื้อสินค้าจากท่าน 
+
+Order No: <!-- ORDER_NO -->
+Details: <!-- COMMENT -->
+
+และได้ทำการยกเลิกรายการสั่งซื้อของท่านเรียบร้อยแล้ว
+
+อนึ่ง ท่านสามารถตรวจสอบสถานะสินค้าของท่านได้ที่ http://www.epetthailand.com/php/epetshop/tracking/checkstatus.php
+ 
+ขอบคุณค่ะ และหวังว่าจะได้ให้บริการท่านในโอกาสต่อไป
+ 
+ePetShop (08-6777-0105)
+email: sale@epetthailand.com

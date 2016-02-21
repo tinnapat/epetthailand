@@ -1,0 +1,18 @@
+PetShop: (<!-- ORDER_NO -->) Your Order has been canceled.
+สวัสดีค่ะ
+ 
+สินค้าบางรายการที่ท่านสั่งมาไม่มีค่ะ 
+
+Order No: <!-- ORDER_NO -->
+Details: <!-- COMMENT -->
+
+ทางร้านไม่สามารถจัดหาสินค้าให้ท่านได้ เนื่องจากสินค้าขาดตลาด ท่านสามารถ
+1. ยกเลิกรายการสั่งซื้อนี้
+2. เปลี่ยนแปลงสินค้าโดยทำรายการใหม่
+
+อนึ่ง ท่านสามารถตรวจสอบสถานะสินค้าของท่านได้ที่ http://www.epetthailand.com/php/epetshop/tracking/checkstatus.php
+ 
+ขอบคุณค่ะ และหวังว่าจะได้ให้บริการท่านในโอกาสต่อไป
+ 
+ePetShop (08-6777-0105)
+email: sale@epetthailand.com

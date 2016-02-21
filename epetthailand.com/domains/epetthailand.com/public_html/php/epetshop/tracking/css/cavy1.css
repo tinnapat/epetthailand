@@ -1,0 +1,34 @@
+.bluebar {  font-family: "MS Sans Serif"; font-size: 10pt; color: #FFFFFF; background-color: #a2cd5a; text-decoration: none; font-weight: bold}
+a {  color: #003399; text-decoration: none}
+a.bluebar:hover {  color: #800000; text-decoration: none}
+a.bluebar:visited {  color: #FFFFFF}
+a.bluebar {  font-family: "MS Sans Serif"; color: #FFFFFF; text-decoration: none}
+.tabyellow {  background-color: #FFCC66}
+.fontyellow {  font-family: "MS Sans Serif"; font-size: 10pt; color: #996600; background-color: #FFFFFF}
+.hdryellow {  color: #996666; font-weight: bold; font-family: "MS Sans Serif"; font-size: 9pt}
+.fontblue { font-family: "MS Sans Serif"; font-size: 12px; color: #330066; background-color: #FFFFFF }
+.hdrblue { color: #663399; font-weight: bold; font-family: "MS Sans Serif"; font-size: 9pt}
+.tabblue { background-color: #9999cc}
+.fontgreen { font-family: "MS Sans Serif"; font-size: 10pt; color: #006633; background-color: #FFFFFF ; font-weight: normal}
+.hdrgreen { color: #006633; font-weight: bold; font-family: "MS Sans Serif"; font-size: 9pt}
+.tabgreen { background-color: #99cc99}
+.normal {  font-family: "MS Sans Serif"; font-size: 10pt; color: #333333}
+.layerblue {  font-family: "MS Sans Serif"; font-size: 10pt; color: #FFFFFF; background-color: #003399}
+.fontgrey { font-family: "MS Sans Serif"; font-size: 9pt; color: #666666; background-color: #FFFFFF }
+.fontorange { font-family: "MS Sans Serif"; font-size: 10pt; color: #FF9933; background-color: #FFFFFF ; text-decoration: none}
+.greybright { font-family: "MS Sans Serif"; font-size: 10pt; color: #666666; background-color: #CCCCCC; text-decoration: none; font-weight: bold }
+.fontgreytr { font-family: "MS Sans Serif"; font-size: 10pt; color: #000000; font-weight: bold}
+.header {  font-family: "MS Sans Serif"; font-size: 12pt; color: #3300CC; font-weight: bold}
+.normalyellow { font-family: "MS Sans Serif"; font-size: 10pt; color: #FF9933}
+.normalyello { font-family: "MS Sans Serif"; font-size: 10pt; color: #996600}
+.tabyellowbright { background-color: #FFCC99}
+.headerbigblue { font-family: "MS Sans Serif"; font-size: 12pt; color: #8B7D7B; background-color: #FFE4E1; text-decoration: none; font-weight: bold }
+.normalboldwhite { font-family: "MS Sans Serif"; font-size: 10pt; color: #FFFFFF; font-weight: bold}
+.normalbold { font-family: "MS Sans Serif"; font-size: 9pt; color: #000000; font-weight: bold }
+.tabgrey { background-color: #999999; font-family: "MS Sans Serif"; font-size: 12pt; color: #FFFFFF}
+.tabgreybright { background-color: #efefef; font-family: "MS Sans Serif"; font-size: 10pt; color: #FFFFFF }
+.tabgreymore { background-color: #666666; font-family: "MS Sans Serif"; font-size: 10pt; color: #FFFFFF }
+.tabred { background-color: #FF0033}
+.fontredbold { font-family: "MS Sans Serif"; font-size: 10pt; color: #CC0000; text-decoration: none ; font-weight: bold}
+.fontorangebold { font-family: "MS Sans Serif"; font-size: 10px; color: #993366; text-decoration: none ; font-weight: bold }
+.fontpinkbold { font-family: "MS Sans Serif"; font-size: 10px; color: #993366; text-decoration: none ; font-weight: bold }
